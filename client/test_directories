@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python3 ./client.py -c test_directories
+
+
